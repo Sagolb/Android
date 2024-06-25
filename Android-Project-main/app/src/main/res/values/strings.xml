@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyMobileApp</string>
+    <string name="email_label">Email:</string>
+    <string name="password_label">Password:</string>
+    <string name="gender_label">Gender:</string>
+    <string name="hint_email">Enter your email</string>
+    <string name="hint_password">Enter your password</string>
+    <string name="spinner_prompt">Select your gender.</string>
+    <string name="submit">Submit</string>
+    <string name="toast_message">You submitted: %1$s, %2$s, %3$s</string>
+
+    <string-array name="gender_options">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array></resources>
