@@ -7,7 +7,7 @@ import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
-public class SharedVewModel extends ViewModel {
+public class SharedModel extends ViewModel {
     private final MutableLiveData<String> text = new MutableLiveData<>();
 
     public void setText(String value) {
